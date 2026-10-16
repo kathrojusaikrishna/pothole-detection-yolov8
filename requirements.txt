@@ -1,0 +1,7 @@
+ultralytics: 8.4.178
+numpy: 2.1.3
+opencv: 4.14.0
+Pillow: 11.3.0
+matplotlib: 3.10.0
+pandas: 2.2.3
+PyYAML: 6.0.3
